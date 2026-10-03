@@ -12,7 +12,7 @@ A small Node.js REST server exposing a single endpoint, `POST /average`. Each ca
 ## Setup
 
 ```bash
-git clone <REPO_URL>
+   git clone https://github.com/GaneshKaribasavaswamy/running-average-api.git
 cd running-average-api
 npm install
 ```
